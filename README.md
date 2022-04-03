@@ -8,4 +8,5 @@ All The requirements fitted.
 
 
 Get the application apk file here
-https://shorturl.at/kmtB5
+
+[![Foo](dl.png)](https://firebasestorage.googleapis.com/v0/b/wellwisher-extension.appspot.com/o/app-release.apk?alt=media&token=940c9cc5-3cb2-4acc-aa22-b4f1606cb1bd)
